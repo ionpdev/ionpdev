@@ -27,7 +27,7 @@ I thrive in fast-paced, collaborative environments and enjoy mentoring teammates
 
 ### 🚀 What I’m Working On
 
-- Building scalable SaaS platforms at **Medidata Solutions**
+- Building scalable SaaS platforms
 - Designing microfrontend architectures and reusable component libraries
 - Contributing to internal developer tooling and performance optimization
 - Learning more about fullstack patterns and cloud-native architecture
@@ -51,11 +51,9 @@ I thrive in fast-paced, collaborative environments and enjoy mentoring teammates
 ### 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/popaion/)
-- [GitHub](https://github.com/ionpdev) (this profile!)
-- [Portfolio](https://github.com/ipopa-mdsol)
 
 ---
 
-> “Write code that’s easy to delete — not easy to extend.”  
+> “First make it work. Then make it right. Then make it fast.”  
 > — A motto I live by to keep things simple and maintainable.
 
