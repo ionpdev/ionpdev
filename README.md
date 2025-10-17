@@ -1,59 +1,72 @@
-# 👋 Hi, I'm Ion P
+# Hi, I'm Ion P
 
-**Senior Software Engineer** | Frontend Specialist | Tech Enthusiast  
-Based in London 🇬🇧 | Building clean, scalable web experiences
+Senior Software Engineer & AI Engineer
+Frontend specialist • Systems thinker • DX & performance advocate
+London 🇬🇧 — Building clean, scalable, production-grade software
 
----
+About Me
 
-### 🧑‍💻 About Me
+I’m a Senior Engineer focused on frontend architecture, AI-enabled product development, and developer experience.
+I design and ship systems that are reliable at scale, easy to evolve, and a joy to work in.
 
-I'm a passionate Senior Software Engineer with a strong focus on frontend architecture, developer experience, and performance.  
-I work with modern frameworks like **React**, **Next.js**, **Remix**, and **Angular**, and love clean code, reusable components, and well-tested systems.
+Led delivery of platforms used by enterprises at scale, including systems that handle £ billions in flows and value.
 
-I thrive in fast-paced, collaborative environments and enjoy mentoring teammates, optimizing apps, and shipping great user experiences.
+Most commercial work is private/NDA and not open-sourced; I’m happy to discuss approach, architecture, and outcomes.
 
----
+I thrive in high-ownership teams, mentor engineers, and drive a strong bar for testing, accessibility, and performance.
 
-### 🛠 Tech Stack
+What I Build
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, SCSS
-- **Frontend:** React, Angular, Next.js, Remix, Redux, Apollo Client
-- **Backend:** Node.js, Express, REST APIs, GraphQL, WebSockets
-- **Testing:** Jest, Cypress, TDD, E2E
-- **DevOps:** GitHub Actions, Travis CI, Docker, AWS
-- **Architecture:** Microfrontends, Module Federation, CI/CD
+AI-powered web apps: retrieval-augmented features, tool-use/orchestration, evals, and production observability
 
----
+Scalable frontends: microfrontends, shared design systems, and performance-first UX
 
-### 🚀 What I’m Working On
+Robust platforms: clear boundaries, typed contracts, CI/CD, and maintainable infra as teams scale
 
-- Building scalable SaaS platforms
-- Designing microfrontend architectures and reusable component libraries
-- Contributing to internal developer tooling and performance optimization
-- Learning more about fullstack patterns and cloud-native architecture
+Core Principles
 
----
+Make it simple, measurable, and testable.
 
-### 📚 Ongoing Learning
+Optimise for change (typed contracts, clear seams).
 
-- 🧠 Frontend Masters (Advanced JavaScript, Microfrontends, Fullstack Engineering)
-- 💻 Academind (Production-Grade React, System Design, CI/CD)
-- 🎓 Regular contributor to internal knowledge sharing and mentorship
+Ship value safely and often (feature flags, progressive delivery).
 
----
+Performance is a feature; DX is a force multiplier.
 
-### 🌱 Hobbies
+Tech I Use
 
-☕️ Coffee nerd → 🌲 Nature walker → ✈️ Travel explorer → 🎧 Music enthusiast
+Languages: TypeScript, JavaScript, HTML, CSS/SCSS
 
----
+Frontend: React, Next.js (App Router), Remix, Angular, Redux, shadcn/ui, Tailwind
 
-### 📬 Let’s Connect
+AI / LLM: OpenAI • Vercel AI SDK • tool-use & RAG • vector stores • prompt/output scheming • evals
 
-- [LinkedIn](https://www.linkedin.com/in/popaion/)
+Backend: Node.js, Bun, Express/Elysia, REST, GraphQL, WebSockets
 
----
+Data & Infra: PostgreSQL, Redis, S3, Docker, AWS
 
-> “First make it work. Then make it right. Then make it fast.”  
-> — A motto I live by to keep things simple and maintainable.
+Testing: Jest/Vitest, Cypress, MSW, TDD, E2E, contract tests
 
+Architecture: Microfrontends, Module Federation, GraphQL BFF, CI/CD (GitHub Actions, Travis)
+
+Recent Focus
+
+Designing AI assistants embedded in enterprise UIs (task routing, guarded tool-use, deterministic outputs)
+
+Hardening microfrontend platforms: shared libraries, permissioned UX, performance budgets
+
+Developer tooling: fast local dev, test ergonomics, and CI reliability
+
+Ongoing Learning
+
+Advanced React & performance engineering
+
+AI system patterns (retrieval, agents, evals, safety/guardrails)
+
+Practical system design for high-throughput apps
+
+📬 Let’s Connect
+
+LinkedIn
+
+“First make it work. Then make it right. Then make it fast.”
