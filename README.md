@@ -1,8 +1,7 @@
 # Hi, I'm Ion P
 
-Senior Software Engineer & AI Engineer
-Frontend specialist • Systems thinker • DX & performance advocate
-London 🇬🇧 — Building clean, scalable, production-grade software
+Senior Software Engineer | Senior Frontend Engineer | Senior AI Engineer
+London 🇬🇧 - Building clean, scalable, production-grade software that delivers billions in value.
 
 About Me
 
