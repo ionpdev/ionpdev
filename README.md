@@ -1,71 +1,60 @@
-# Hi, I'm Ion P
+# Ion P
 
-Senior Software Engineer | Senior Frontend Engineer | Senior AI Engineer
-London 🇬🇧 - Building clean, scalable, production-grade software that delivers billions in value.
+Senior Software Engineer in London focused on frontend architecture, AI-enabled product development, and developer experience. I build clean, scalable systems that are reliable in production and easy to evolve.
 
-About Me
+## About
 
-I’m a Senior Engineer focused on frontend architecture, AI-enabled product development, and developer experience.
-I design and ship systems that are reliable at scale, easy to evolve, and a joy to work in.
+Most of my commercial work is private (NDA), but I’m happy to talk about approach, architecture, and outcomes.
 
-Led delivery of platforms used by enterprises at scale, including systems that handle £ billions in flows and value.
+I like high-ownership teams. I care about code quality, testing, accessibility, and performance. I mentor engineers and help teams ship safely.
 
-Most commercial work is private/NDA and not open-sourced; I’m happy to discuss approach, architecture, and outcomes.
+## What I build
 
-I thrive in high-ownership teams, mentor engineers, and drive a strong bar for testing, accessibility, and performance.
+AI-powered web apps  
+RAG features, tool use, evaluations, and production observability
 
-What I Build
+Scalable frontends  
+Microfrontends, shared design systems, performance-first UX
 
-AI-powered web apps: retrieval-augmented features, tool-use/orchestration, evals, and production observability
+Robust platforms  
+Clear boundaries, typed contracts, CI/CD, and maintainable infrastructure
 
-Scalable frontends: microfrontends, shared design systems, and performance-first UX
+## Principles
 
-Robust platforms: clear boundaries, typed contracts, CI/CD, and maintainable infra as teams scale
+Keep it simple, measurable, and testable  
+Optimise for change with clear seams and typed contracts  
+Ship value safely and often  
+Performance matters and so does developer experience
 
-Core Principles
+## Tech
 
-Make it simple, measurable, and testable.
+Languages  
+TypeScript, JavaScript, HTML, CSS/SCSS
 
-Optimise for change (typed contracts, clear seams).
+Frontend  
+React, Next.js (App Router), Remix, Angular, Redux, Tailwind, shadcn/ui
 
-Ship value safely and often (feature flags, progressive delivery).
+AI  
+OpenAI, Vercel AI SDK, tool use, RAG, vector stores, structured outputs, evals
 
-Performance is a feature; DX is a force multiplier.
+Backend  
+Node.js, Bun, Express, Elysia, REST, GraphQL, WebSockets
 
-Tech I Use
+Data and infra  
+PostgreSQL, Redis, S3, Docker, AWS
 
-Languages: TypeScript, JavaScript, HTML, CSS/SCSS
+Testing  
+Jest, Vitest, Cypress, MSW, TDD, E2E, contract testing
 
-Frontend: React, Next.js (App Router), Remix, Angular, Redux, shadcn/ui, Tailwind
+Architecture  
+Microfrontends, Module Federation, GraphQL BFF, CI/CD
 
-AI / LLM: OpenAI • Vercel AI SDK • tool-use & RAG • vector stores • prompt/output scheming • evals
+## Recent focus
 
-Backend: Node.js, Bun, Express/Elysia, REST, GraphQL, WebSockets
+AI assistants inside enterprise UIs  
+Hardening microfrontend platforms and shared libraries  
+Developer tooling, local dev speed, CI reliability
 
-Data & Infra: PostgreSQL, Redis, S3, Docker, AWS
+## Connect
 
-Testing: Jest/Vitest, Cypress, MSW, TDD, E2E, contract tests
-
-Architecture: Microfrontends, Module Federation, GraphQL BFF, CI/CD (GitHub Actions, Travis)
-
-Recent Focus
-
-Designing AI assistants embedded in enterprise UIs (task routing, guarded tool-use, deterministic outputs)
-
-Hardening microfrontend platforms: shared libraries, permissioned UX, performance budgets
-
-Developer tooling: fast local dev, test ergonomics, and CI reliability
-
-Ongoing Learning
-
-Advanced React & performance engineering
-
-AI system patterns (retrieval, agents, evals, safety/guardrails)
-
-Practical system design for high-throughput apps
-
-📬 Let’s Connect
-
-LinkedIn
-
-“First make it work. Then make it right. Then make it fast.”
+LinkedIn: <add link>
